@@ -1,0 +1,6 @@
+page\Calculadora.class
+utils\WiniumDriverManager.class
+utils\FuncionesAuxiliares.class
+steps\CalculadoraSteps.class
+runner\TestRunner.class
+utils\ConfigManager.class
